@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\JavaExcelFile\\commons-codec-1.9.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\JavaExcelFile\\poi-3.11-beta2.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\JavaExcelFile\\poi-ooxml-3.11-beta2.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\JavaExcelFile\\poi-ooxml-schemas-3.11-beta2.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\JavaExcelFile\\stax-api-1.0.1.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\JavaExcelFile\\xmlbeans-2.6.0.jar"
+    ]
+}
